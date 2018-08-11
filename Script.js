@@ -2,7 +2,7 @@ var c=document.getElementById("myCanvas");
 var ctx=c.getContext("2d");
 var imageObj1 = new Image();
 var imageObj2 = new Image();
-imageObj1.src = ""
+imageObj1.src = "407139CA-64EF-4416-9DA7-194AD061C858.png"
 imageObj1.onload = function() {
    ctx.drawImage(imageObj1, 0, 0, 328, 526);
    imageObj2.src = "";
